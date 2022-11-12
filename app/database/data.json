@@ -1,44 +1,182 @@
+[{
+    "id": 0,
+    "account_name": "Elon Musk",
+    "account_handle": "@elonmusk",
+  	"account_picture": "https://pbs.twimg.com/profile_images/1590968738358079488/IY9Gx6Ok_400x400.jpg",
+    "followers": 15300000,
+    "following": 130,
+    "joined_date": "June 2009",
+    "real_tweets": 
+    [
+        {   
+            "content": "🪦🤖",
+            "vibes": "Soon",
+            "date_posted": "07:36 am 12 Nov 2022",
+            "retweets": 18100,
+            "quote_tweets": 4157,
+            "likes": 223800,
+            "replies": 20800
+        },
+
+        {   
+            "content": "FTX meltdown/ransack being tracked in real-time on Twitter",
+            "date_posted": "06:14 am 12 Nov 2022",
+            "retweets": 13618,
+            "quote_tweets": 1418,
+            "likes": 135700,
+            "replies": 9855
+        },
+
+        {
+            "content": "Twitter HQ is great (this is a real pic)",
+            "date_posted":"04:14 pm 11 Nov 2022",
+            "retweets": 12900,
+            "quote_tweets": 2056,
+            "likes": 169100,
+            "replies": 10300,
+            "attatchments": "https://pbs.twimg.com/media/FhS6MXBUUAYC6y3?format=jpg&name=medium"
+        },
+
+        {
+            "content": "⚡️⚡️⚡️ Power to the People ⚡️⚡️⚡️",
+            "date_posted":"03:45 am 05 Nov 2022",
+            "retweets": 69600,
+            "quote_tweets": 10700,
+            "likes": 722700,
+            "replies": 53600
+        },
+
+        {
+            "content": "",
+            "date_posted": "01:28 am 08 Nov 2022",
+            "retweets": 48700,
+            "quote_tweets": 9588,
+            "likes": 685600,
+            "replies": 58300,
+            "attatchments": "https://pbs.twimg.com/media/FhATQoQVUAA87rN?format=jpg&name=900x900"
+        }
+
+    ],
+
+    "fake_tweets": 
+    [
+        {   
+            "content": "🤡",
+            "date_posted": "05:12 am 12 Nov 2022",
+            "retweets": 18100,
+            "quote_tweets": 4327,
+            "likes": 193600,
+            "replies": 14300
+        },
+
+        {   
+            "content": "Thinking of making a platform called the 'twitterverse', thoughts?",
+            "date_posted": "07:12 am 04 Nov 2022",
+            "retweets": 39800,
+            "quote_tweets": 7680,
+            "likes": 121300,
+            "replies": 47300,
+            "attatchments": "https://media.discordapp.net/attachments/1010319628456693861/1041034342572507166/Area_Elon_Musk_in_the_twitterverse_Elon_Musk_in_virtual_reality_fc8b28a3-98ae-49ab-806b-c2971b355cf2.png"
+        },
+
+        {
+            "content": "My dream is a big, beautiful galaxy, full of life & incredible",
+            "date_posted": "06:31pm 01 Nov 2022",
+            "retweets": 71200,
+            "quote_tweets": 11600,
+            "likes": 227800,
+            "replies": 42900
+        },
+
+        {
+            "content": "What do people think about Twitter? Does it actually have more trust & trust in their users than China?",
+            "date_posted": "04:31 am 06 Nov 2022",
+            "retweets": 31200,
+            "quote_tweets": 10400,
+            "likes": 87800,
+            "replies": 28760
+        },
+
+        {
+            "content": "How do they get their funds? I wonder 🤔.",
+            "date_posted": "04:14 pm 11 Nov 2022",
+            "retweets": 19276,
+            "quote_tweets": 3387,
+            "likes": 98700,
+            "attatchments": "https://exantestatic.s3.eu-west-1.amazonaws.com/cache/e0/16/e0162a2245195e2220a541d0ba0584d5.jpg"
+        }
+    ]
+},
+
 {
-    "companies": [{
-        "id": 0,
-        "account_name": "Elon Musk",
-        "account_handle": "@elonmusk",
-        "account_picture": "https://pbs.twimg.com/profile_images/1590968738358079488/IY9Gx6Ok_400x400.jpg",
-        "followers": 15300000,
-        "following": 130,
-        "joined_date": "June 2009",
-        "real_tweets": 
-        [
-            {   
-                "content": "🪦🤖",
-                "vibes": "Soon",
-                "date_posted": "07:36 am 12 Nov 2022",
-                "retweets": 18100,
-                "quote_tweets": 4157,
-                "likes": 223800,
-                "replies": 20800,
-                "attachment": ""
-            },
+    "id": 1,
+    "account_name": "Pepsi",
+    "account_handle": "@pepsi",
+  	"account_picture": "https://pbs.twimg.com/profile_images/1255241280856227841/Pcm8Xpj4_400x400.jpg",
+    "followers": 3100000,
+    "following": 37600,
+    "joined_date": "December 2008",
+    "real_tweets": 
+    [
+        {   
+            "content": "It’s the Anime Pepsi you always dreamed of",
+            "date_posted": "03:30 pm 26 Oct 2022",
+            "retweets": 80,
+            "quote_tweets": 11,
+            "likes": 299,
+            "replies": 39,
+            "attatchments": "https://twitter.com/i/status/1585277744006438914"
+        },
 
-            {   
-                "content": "FTX meltdown/ransack being tracked in real-time on Twitter",
-                "date_posted": "6:14 am 12 Nov 2022",
-                "retweets": 13618,
-                "quote_tweets": 1418,
-                "likes": 135700
-            }
-        ],
+        {   
+            "content": "Let Pepsi be your new game day good luck charm because those socks are starting to smell.",
+            "date_posted": "3:52 pm 21 Oct 2022",
+            "retweets": 30,
+            "quote_tweets": 2,
+            "likes": 195,
+            "replies": 24,
+            "attatchments": "https://pbs.twimg.com/media/Ffmep7nXEAEWWtO?format=jpg&name=medium"
+        },
 
-        "fake_tweets": 
-        [
-            {   
-                "content": "🤡",
-                "vibes": "Soon",
-                "date_posted": "05:12 am 12 Nov 2022",
-                "retweets": 18100,
-                "quote_tweets": 4327,
-                "likes": 193600,
-                "replies": 14300
-            }
-        ]}]
-}
+        {
+            "content": "#AnotherOne for H1M & & that’s 1-2-3-4 for the J-E-T-S. Congrats @iamSauceGardner. RT this post with #PepsiRookieSweepstakes, for your chance to win this week’s Pepsi Zero Sugar Rookie Collection tee. Complete rules https://bit.ly/3CmK4l9",
+            "date_posted":"06:49 pm 27 Oct 2022",
+            "retweets": 912,
+            "quote_tweets": 1233,
+            "likes": 1147,
+            "replies": 783
+        }
+    ],
+
+    "fake_tweets": 
+    [
+        {   
+            "content": "Enjoy the 🔥 Pepsi Zero Sugar Nitro Sugar. Check out @MTVPopstar and RT using #PepsiSodaShop #MTVPopstar to learn more!",
+            "date_posted": "02:42 am 5 Nov 2022",
+            "retweets": 1012,
+            "quote_tweets": 2104,
+            "likes": 647,
+            "replies": 569
+        },
+
+        {   
+            "content": "How about a coke? Don't let it get too warm near you. I think it would be great to have the carbonated Pepsi in the fridge 😉",
+            "date_posted": "07:22 pm 10 Nov 2022",
+            "retweets": 101,
+            "quote_tweets": 43,
+            "likes": 160,
+            "replies": 78
+        },
+
+        {
+            "content": "WINNER! Check out this #sweetnosugar art by user @JnglDiff078! Keep your eyes open for future competitions 👀",
+            "date_posted": "10:34 am 15 Nov 2022",
+            "retweets": 88,
+            "quote_tweets": 45,
+            "likes": 101,
+            "replies": 5,
+            "attatchments": "https://media.discordapp.net/attachments/1010319628456693861/1041094142714974248/Area_Goku_holding_a_pepsi_marketing_anime_akira_toriyama_dragon_ea36f430-2441-4189-ad80-80125c78489a.png"
+        }
+    ]
+}]
+
