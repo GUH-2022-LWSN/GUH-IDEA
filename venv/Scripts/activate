@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Willi\Downloads\GUH-IDEA\venv"
+VIRTUAL_ENV="C:\Users\Willi\Downloads\GUH_APP\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

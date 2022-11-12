@@ -1,0 +1,44 @@
+{
+    "companies": [{
+        "id": 0,
+        "account_name": "Elon Musk",
+        "account_handle": "@elonmusk",
+        "account_picture": "https://pbs.twimg.com/profile_images/1590968738358079488/IY9Gx6Ok_400x400.jpg",
+        "followers": 15300000,
+        "following": 130,
+        "joined_date": "June 2009",
+        "real_tweets": 
+        [
+            {   
+                "content": "🪦🤖",
+                "vibes": "Soon",
+                "date_posted": "07:36 am 12 Nov 2022",
+                "retweets": 18100,
+                "quote_tweets": 4157,
+                "likes": 223800,
+                "replies": 20800,
+                "attachment": ""
+            },
+
+            {   
+                "content": "FTX meltdown/ransack being tracked in real-time on Twitter",
+                "date_posted": "6:14 am 12 Nov 2022",
+                "retweets": 13618,
+                "quote_tweets": 1418,
+                "likes": 135700
+            }
+        ],
+
+        "fake_tweets": 
+        [
+            {   
+                "content": "🤡",
+                "vibes": "Soon",
+                "date_posted": "05:12 am 12 Nov 2022",
+                "retweets": 18100,
+                "quote_tweets": 4327,
+                "likes": 193600,
+                "replies": 14300
+            }
+        ]}]
+}
