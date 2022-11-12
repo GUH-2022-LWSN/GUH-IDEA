@@ -3,8 +3,9 @@ from models.tweet import Tweet
 from datetime import date, datetime
 import json
 import uuid
+import os
 
-DATABASE_FILE = "C:/Users/Willi/Downloads/GUH_APP/app/database/data.json"
+DATABASE_FILE = os.path.join(os.path.dirname(__file__), "data.json")
 
 def parse_tweets(tweets):
     processed_tweets = {}
