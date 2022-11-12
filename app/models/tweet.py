@@ -2,6 +2,7 @@ from pydantic import BaseModel
 from datetime import datetime
 
 class Tweet(BaseModel):
+        id_num: str
         body: str
         vibe: str | None
         retweets: int

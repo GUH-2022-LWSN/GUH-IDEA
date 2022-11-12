@@ -1,14 +1,16 @@
-from ..models.company import Company
-from ..models.tweet import Tweet
+from models.company import Company
+from models.tweet import Tweet
 from datetime import date, datetime
 import json
 import uuid
 
 DATABASE_FILE = "C:/Users/Willi/Downloads/GUH_APP/app/database/data.json"
 
-def parse_tweets(tweet):
-    tweets = []
-    for tweet in company["real_tweets"]:
+def parse_tweets(tweets):
+    print(tweets)
+    processed_tweets = []
+    for tweet in tweets:
+        id_num = str(uuid.uuid4())[0:16]
         body = tweet["content"]
         retweets = tweet["retweets"]
         quote_tweets = tweet["quote_tweets"]
@@ -17,10 +19,10 @@ def parse_tweets(tweet):
         vibes = "" if tweet.get("vibes", None) is None else tweet["vibes"]
         attachment = "" if tweet.get("attachment", None) is None else tweet["attachment"]
         
-        new_tweet = Tweet(body=body, retweets=retweets, quote_tweets=quote_tweets, likes=likes, date=date, vibe=vibes, attachment=attachment)
-        tweets.append(new_tweet)
+        new_tweet = Tweet(id_num=id_num, body=body, retweets=retweets, quote_tweets=quote_tweets, likes=likes, date=date, vibe=vibes, attachment=attachment)
+        processed_tweets.append(new_tweet)
     
-    return tweets
+    return processed_tweets
         
 
 def load_data():
@@ -31,7 +33,7 @@ def load_data():
     for company in database_data["companies"]:
         ids = str(uuid.uuid4())[0:16]
         handle = company["account_handle"]
-        picture = "" if picture.get("account_picture", None) is None else company["picture"]
+        picture = None if company.get("account_picture", None) is None else company["account_picture"]
         name = company["account_name"]
         followers = company["followers"]
         following = company["following"]
@@ -45,6 +47,7 @@ def load_data():
         companies_list.append(new_company)
     
     return companies_list
+
 
 
     
