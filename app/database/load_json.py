@@ -1,7 +1,7 @@
 from models.company import Company
 from models.tweet import Tweet
 from datetime import date, datetime
-from filehash import FileHash
+import hashlib
 from itertools import product
 import json
 import uuid
@@ -37,8 +37,8 @@ def save_hash(hash):
     pass
 
 def get_file_hashes():
-    hasher = FileHash("sha1")
-    return hasher.hash_file(DATABASE_FILE)
+    with open(DATABASE_FILE) as df:
+        return hashlib.sha1(df.read()).hexdigest()
 
 def save_cross_product():
     pass
