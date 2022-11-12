@@ -1,11 +1,14 @@
 from models.company import Company
 from models.tweet import Tweet
 from datetime import date, datetime
+from filehash import FileHash
+from itertools import product
 import json
 import uuid
 import os
 
 DATABASE_FILE = os.path.join(os.path.dirname(__file__), "data.json")
+HASH_FILE = os.path.join(os.path.dirname(__file__), "hash.json")
 
 def parse_tweets(tweets):
     processed_tweets = {}
@@ -23,12 +26,30 @@ def parse_tweets(tweets):
         processed_tweets[id_num] = new_tweet
     
     return processed_tweets
-        
+
+def get_saved_hash():
+    hash_file = open(HASH_FILE, "rt")
+    hash_record = json.loads(hash_file.read())
+
+    return hash_record["hash"]
+
+def save_hash(hash):
+    pass
+
+def get_file_hashes():
+    hasher = FileHash("sha1")
+    return hasher.hash_file(DATABASE_FILE)
+
+def save_cross_product():
+    pass
 
 def load_data():
+
     content = open(DATABASE_FILE, "rt")
     database_data = json.loads(content.read())
     companies_dict = {}
+    tweet_pair_dict = {}
+    correct_tweets = {}
 
     for company in database_data["companies"]:
         ids = str(uuid.uuid4())[0:16]
@@ -41,12 +62,16 @@ def load_data():
         real_tweets = parse_tweets(company["real_tweets"])
         fake_tweets = parse_tweets(company["fake_tweets"])
 
-        new_company = Company(company_id=ids, name=name, handle=handle, picture=picture, followers=followers, following=following, 
-            joined_date=date, correct_tweets = real_tweets, incorrect_tweets=fake_tweets)
+        tweet_pairs = list(product(real_tweets.values(), fake_tweets.values()))
+        print(tweet_pairs)
+        new_company = Company(name=name, handle=handle, picture=picture, followers=followers, following=following, 
+            joined_date=date)
 
         companies_dict[ids] = new_company
+        tweet_pair_dict[ids] = tweet_pairs
+        correct_tweets[ids] = real_tweets
     
-    return companies_dict
+    return companies_dict, tweet_pair_dict, correct_tweets
 
 
 
