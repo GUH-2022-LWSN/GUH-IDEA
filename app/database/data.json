@@ -447,7 +447,8 @@
                 "retweets": 13,
                 "quote_tweets": 4,
                 "likes": 22,
-                "replies": 29
+                "replies": 29,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041230172524912742/image.png"
             },
     
             {
@@ -456,7 +457,8 @@
                 "retweets": 1,
                 "quote_tweets": 10,
                 "likes": 101,
-                "replies": 88
+                "replies": 88,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041234061173215272/unknown.png"
             }
         ]
     
@@ -635,7 +637,7 @@
                 "quote_tweets": 1,
                 "likes": 16,
                 "replies": 1,
-                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041190619902656643/unknown.png"
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041225557536407552/unknown.png"
             }
         ]
     
@@ -897,7 +899,7 @@
         "id": 11,
         "account_name": "Disney",
         "account_handle": "@Disney",
-        "account_picture": "",
+        "account_picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041225929843814421/unknown.png",
         "followers": 9600000,
         "following": 108,
         "joined_date": "August 2009",
@@ -994,7 +996,7 @@
                 "quote_tweets": 101,
                 "likes": 20700,
                 "replies": 1100,
-                "attachment": ""
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041223809476337694/unknown.png"
             }
         ]
     
