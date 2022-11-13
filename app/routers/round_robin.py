@@ -11,7 +11,7 @@ companies, tweet_pairs, correct_tweets = load_data()
 async def get_companies(x_history: str = Header()):
     seen_IDs = x_history.split(",")
 
-    for i in range(0, 10):
+    for i in range(0, 50):
         company_id = choice(list(companies.keys()))
 
         tweets = list(choice(tweet_pairs[company_id]))

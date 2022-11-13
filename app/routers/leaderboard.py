@@ -31,7 +31,7 @@ def set_leaderboard(response: LeaderboardResponse):
         if score > int(place["score"]):
             continue
 
-        result = {"twitter_handle": response.twitter_handle, "score": score}
+        result = {"twitter_handle": response.twitter_handle, "score": score, "level": response.level}
         leaderboard["leaderboard"].insert(i+1, result)
 
         if len(leaderboard["leaderboard"]) > NUM_OF_ENTRIES:
@@ -40,7 +40,7 @@ def set_leaderboard(response: LeaderboardResponse):
         save_leaderboard(leaderboard)
         break
     else:
-        result = {"twitter_handle": response.twitter_handle, "score": score}
+        result = {"twitter_handle": response.twitter_handle, "score": score, "level": response.level}
         leaderboard["leaderboard"].insert(0, result)
         if len(leaderboard["leaderboard"]) > NUM_OF_ENTRIES:
             leaderboard["leaderboard"].pop()  

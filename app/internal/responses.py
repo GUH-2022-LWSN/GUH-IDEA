@@ -7,3 +7,4 @@ class AnswerResponse(BaseModel):
 class LeaderboardResponse(BaseModel):
     twitter_handle: str
     score: str
+    level: int
