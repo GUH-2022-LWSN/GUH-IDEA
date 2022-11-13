@@ -63,8 +63,7 @@ def load_data():
         fake_tweets = parse_tweets(company["fake_tweets"])
 
         tweet_pairs = list(product(real_tweets.values(), fake_tweets.values()))
-        print(tweet_pairs)
-        new_company = Company(name=name, handle=handle, picture=picture, followers=followers, following=following, 
+        new_company = Company(company_id=ids, name=name, handle=handle, picture=picture, followers=followers, following=following, 
             joined_date=date)
 
         companies_dict[ids] = new_company
