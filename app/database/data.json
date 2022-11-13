@@ -113,7 +113,7 @@
         "id": 1,
         "account_name": "Pepsi",
         "account_handle": "@pepsi",
-        "account_picture": "",
+        "account_picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041157491024723988/unknown.png",
         "followers": 3100000,
         "following": 37600,
         "joined_date": "December 2008",
@@ -126,7 +126,7 @@
                 "quote_tweets": 11,
                 "likes": 299,
                 "replies": 39,
-                "attachment": "https://twitter.com/i/status/1585277744006438914"
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041158178471153834/Screenshot_1.png"
             },
 
             {   
@@ -136,7 +136,7 @@
                 "quote_tweets": 2,
                 "likes": 195,
                 "replies": 24,
-                "attachment": "https://cdn.discordapp.com/attachment/1027959698617552997/1041108295403962469/Ffmep7nXEAEWWtO.jfif"
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041158471053222011/unknown.png"
             },
 
             {
@@ -176,7 +176,7 @@
                 "quote_tweets": 45,
                 "likes": 101,
                 "replies": 5,
-                "attachment": "https://media.discordapp.net/attachment/1010319628456693861/1041094142714974248/Area_Goku_holding_a_pepsi_marketing_anime_akira_toriyama_dragon_ea36f430-2441-4189-ad80-80125c78489a.png"
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041158902961688676/unknown.png"
             }
         ]
     },
@@ -185,7 +185,7 @@
         "id": 2,
         "account_name": "Thoughts of Dog",
         "account_handle": "@dog_feelings",
-          "account_picture": "https://pbs.twimg.com/profile_images/1046968391389589507/_0r5bQLl_400x400.jpg",
+          "account_picture": "https://media.discordapp.net/attachments/1041153839191052408/1041159459667447889/unknown.png",
         "followers": 3700000,
         "following": 3,
         "joined_date": "March 2017",
@@ -254,7 +254,7 @@
         "id": 3,
         "account_name": "Bet365",
         "account_handle": "@bet365",
-          "account_picture": "https://media.discordapp.net/attachments/1027959698617552997/1041107834739359814/unknown.png",
+          "account_picture": "https://media.discordapp.net/attachments/1041153839191052408/1041159736516694147/unknown.png",
         "followers": 449200,
         "following": 365,
         "joined_date": "December 2010",
@@ -276,7 +276,7 @@
                 "quote_tweets": 0,
                 "likes": 17,
                 "replies": 3,
-                "attachments": "https://media.discordapp.net/attachments/1027959698617552997/1041110324612436039/unknown.png?width=1134&height=1134"
+                "attachments": "https://media.discordapp.net/attachments/1041153839191052408/1041160314701500536/unknown.png?width=1134&height=1134"
             },
     
             {
@@ -301,13 +301,13 @@
             },
     
             {   
-                "content": "Aston Villa take on Aston Villa to face Real Madrid at the Ibrox. We're Live Streaming the bet365 Betspogo. Customers must have a funded Sports account or have placed a bet within the last 24 hours.",
+                "content": "Aston Villa take on Real Madrid at the Ibrox. We're Live Streaming the bet365 Betspogo. Customers must have a funded Sports account or have placed a bet within the last 24 hours.",
                 "date_posted": "06:30 pm 19 Oct 2022",
                 "retweets": 0,
                 "quote_tweets": 7,
                 "likes": 7,
                 "replies": 3,
-                "attachments":"https://cdn.discordapp.com/attachments/1027959698617552997/1041115268618924103/unknown.png"
+                "attachments":"https://cdn.discordapp.com/attachments/1041153839191052408/1041160976642351114/unknown.png"
             },
     
             {
@@ -325,7 +325,7 @@
         "id": 4,
         "account_name": "Palantir",
         "account_handle": "@PalantirTech",
-          "account_picture": "https://cdn.discordapp.com/attachments/1027959698617552997/1041120945785536582/unknown.png",
+          "account_picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041161353253093527/unknown.png",
         "followers": 128000,
         "following": 58,
         "joined_date": "May 2009",
@@ -394,7 +394,7 @@
         "id": 5,
         "account_name": "Booking.com",
         "account_handle": "@bookingcom",
-          "account_picture": "https://cdn.discordapp.com/attachments/1027959698617552997/1041136376541880387/unknown.png",
+          "account_picture": "https://media.discordapp.net/attachments/1041153839191052408/1041161612746305607/unknown.png",
         "followers": 194600,
         "following": 3922,
         "joined_date": "March 2009",
@@ -415,7 +415,8 @@
                 "retweets": 0,
                 "quote_tweets": 0,
                 "likes": 4,
-                "replies": 5
+                "replies": 5,
+                "attachments": "https://cdn.discordapp.com/attachments/1041153839191052408/1041162201802747955/unknown.png"
             },
     
             {
@@ -425,9 +426,7 @@
                 "quote_tweets": 0,
                 "likes": 9,
                 "replies": 22,
-                "attachments": "https://drive.google.com/file/d/1ECVOhDIOPX4gN2CXS_LF-inSHT5ZoQlV/view?usp=share_link"
-                
-    
+                "attachments": "https://cdn.discordapp.com/attachments/1041153839191052408/1041161964996542565/unknown.png"
             }
         ],
     
