@@ -1,2 +1,2 @@
 cd app
-py -m uvicorn main:app --reload
+uvicorn app.main:app --reload
