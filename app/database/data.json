@@ -790,5 +790,108 @@
             }
         ]
     
-    }]
+    },
+
+    {
+        "id": 20,
+        "account_name": "Netflix",
+        "account_handle": "@netflix",
+        "account_picture": "https://cdn.discordapp.com/attachments/1041207316126629923/1041207354772959322/unknown.png",
+        "followers": 21100000,
+        "following": 2174,
+        "joined_date": "October 2008",
+        "real_tweets": 
+        [
+            {   
+                "content": "MY FAVORITE PERSON THIS SEASON #LoveIsBlind #LoveisBlindS3",
+                "date_posted": "3:13 pm 9 Nov 2022",
+                "retweets": 2743,
+                "quote_tweets": 293,
+                "likes": 25600,
+                "replies": 0,
+                "attachment": "https://cdn.discordapp.com/attachments/1041207316126629923/1041207383701065808/unknown.png"
+            },
+            {   
+                "content": "No one touch me, I’m still in my feelings about Manifest ep 10.\n\n#Manifest",
+                "date_posted": "8:52 pm 8 Nov 2022",
+                "retweets": 379,
+                "quote_tweets": 90,
+                "likes": 2453,
+                "replies": 50
+            },
+            {   
+                "content": "The Empress has been renewed for Season 2!",
+                "date_posted": "3:00 pm 8 Nov 2022",
+                "retweets": 928,
+                "quote_tweets": 1532,
+                "likes": 11800,
+                "replies": 618
+            }
+        ],
+    
+        "fake_tweets": 
+        [
+            {   
+                "content": "Ojai Forsood’s final outing in The Crown is a joy. You never know what the Season 3 spoilers are gonna be. And there's reason for believe that one of the biggest twists of The Crown Season 4 will be how you'll end up making it back to the very beginning.",
+                "date_posted": "12:53 pm 7 Nov 2022",
+                "retweets": 910,
+                "quote_tweets": 254,
+                "likes": 35964,
+                "replies": 29
+            },
+            {   
+                "content": "This song will have the most iconic opening lines on Netflix.",
+                "date_posted": "4:21 pm 4 Nov 2022",
+                "retweets": 277,
+                "quote_tweets": 260,
+                "likes": 96004,
+                "replies": 67
+            },
+            {   
+                "content": "It's been a really good week for The Daily Show with these brilliant, heartfelt comedy episodes. Here are 10 things you should know.",
+                "date_posted": "10:19 am 6 Nov 2022",
+                "retweets": 487,
+                "quote_tweets": 122,
+                "likes": 27805,
+                "replies": 16
+            }
+        ]
+    
+    },
+
+    {
+        "id": 21,
+        "account_name": "UniCS UoM",
+        "account_handle": "@unicsmcr_",
+        "account_picture": "https://cdn.discordapp.com/attachments/1041207316126629923/1041210202969604156/unknown.png",
+        "followers": 211,
+        "following": 80,
+        "joined_date": "April 2016",
+        "real_tweets": 
+        [
+            {   
+                "content": "Check out @GradTouch ‘s list of 6 grad schemes you can still apply for now!",
+                "date_posted": "1:12 pm 27 Oct 2022",
+                "retweets": 2,
+                "quote_tweets": 0,
+                "likes": 4,
+                "replies": 1
+            }
+        ],
+    
+        "fake_tweets": 
+        [
+            {   
+                "content": "Check out our facebook groups for our future events!",
+                "date_posted": "9:05 am 9 Nov 2022",
+                "retweets": 3,
+                "quote_tweets": 0,
+                "likes": 2,
+                "replies": 0
+            }
+        ]
+    
+    }
+
+    ]
 }
