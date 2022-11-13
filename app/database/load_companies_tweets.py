@@ -1,11 +1,13 @@
-from models.company import Company
-from models.tweet import Tweet
-from datetime import date, datetime
 import hashlib
-from itertools import product
 import json
 import uuid
 import os
+
+from datetime import date, datetime
+from itertools import product
+
+from ..models.company import Company
+from ..models.tweet import Tweet
 
 DATABASE_FILE = os.path.join(os.path.dirname(__file__), "data.json")
 HASH_FILE = os.path.join(os.path.dirname(__file__), "hash.json")
