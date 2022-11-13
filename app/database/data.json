@@ -899,7 +899,7 @@
         "id": 11,
         "account_name": "Disney",
         "account_handle": "@Disney",
-        "account_picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041225929843814421/unknown.png",
+        "account_picture": "https://i.imgur.com/So1T16c.png",
         "followers": 9600000,
         "following": 108,
         "joined_date": "August 2009",
@@ -1107,7 +1107,83 @@
             }
         ]
     
-    }
+    }, 
+    {
+        {
+            "id": 13,
+            "account_name": "BBC News",
+            "account_handle": "@BBCBreaking",
+            "account_picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041213848713187339/unknown.png",
+            "followers": 51400000000,
+            "following": 3,
+            "joined_date": "April 2011",
+            "real_tweets": [{
+                    "content": "Democrats retain majority control of US Senate after President Joe Biden’s party projected to win key race in Nevada",
+                    "date_posted": "06:40 am 13 Nov 2022",
+                    "retweets": 502,
+                    "quote_tweets": 300,
+                    "likes": 2543,
+                    "replies": 112
+            },
+            {   
+                "content": "Foreign Secretary Liz Truss meets Northern Ireland businesses over protocol negotiations",
+                "date_posted": "07:40 am 11 Jan 2022",
+                "retweets": 7,
+                "quote_tweets": 9,
+                "likes": 42,
+                "replies": 20
+            },
+            {   
+                "content": "Liz Truss still in charge, new chancellor insists",
+                "date_posted": "11:28 pm 16 Oct 2022",
+                "retweets": 1001,
+                "quote_tweets": 9,
+                "likes": 2107,
+                "replies": 43
+            },
+            {   
+                "content": '"Anyone can make war, but only the most courageous can make peace" - US President Donald Trump on "honest, direct" meeting with Kim Jong-un',
+                "date_posted": "09:35 am 12 Jun 2018",
+                "retweets": 754,
+                "quote_tweets": 155,
+                "likes": 1632,
+                "replies": 321
+            }
+                ], 
+            "fake_tweets": [{ 
+                    "content": "Democrats and Republicans share Biden's thoughts on Biden and K-pop star",
+                    "date_posted": "11:31 pm 13 Aug 2020",
+                    "retweets": 2038,
+                    "quote_tweets": 573,
+                    "likes": 2552,
+                    "replies": 922
+            },
+            {   
+                "content": "Liz Truss faces legal action over tax measures",
+                "date_posted": "11:28 am 18 Oct 2022",
+                "retweets": 987,
+                "quote_tweets": 200,
+                "likes": 4734,
+                "replies": 430
+            },
+            {   
+                "content": "Democrats and Republicans agree on plan to avoid automatic election-year shutdown",
+                "date_posted": "02:10 pm 06 Sep 2022",
+                "retweets": 30,
+                "quote_tweets": 55,
+                "likes": 89,
+                "replies": 10
+            },
+            {   
+                "content": "Labour Party leadership and NEC conference: Can Lucy Powell get on with the bigots? Listen on the latest episode of Panorama #OnYourYourQuestions",
+                "date_posted": "05:01 pm 27 Sep 2022",
+                "retweets": 202,
+                "quote_tweets": 97,
+                "likes": 552,
+                "replies": 256
+            }
+            ]
+     }
 
 ]
 }
