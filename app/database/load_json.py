@@ -14,15 +14,16 @@ def parse_tweets(tweets):
     processed_tweets = {}
     for tweet in tweets:
         id_num = str(uuid.uuid4())[0:16]
-        body = tweet["content"]
-        retweets = tweet["retweets"]
-        quote_tweets = tweet["quote_tweets"]
-        likes = tweet["likes"]
+        body = tweet.get("content", "")
+        retweets = tweet.get("retweets", 0)
+        quote_tweets = tweet.get("quote_tweets", 0)
+        likes = tweet.get("likes", 0)
+        replies = tweet.get("replies", 0)
         date = datetime.strptime(tweet["date_posted"], "%I:%M %p %d %b %Y")
         vibes = tweet.get("vibes", "")
         attachment = tweet.get("attachment", "")
         
-        new_tweet = Tweet(id_num=id_num, body=body, retweets=retweets, quote_tweets=quote_tweets, likes=likes, date=date, vibe=vibes, attachment=attachment)
+        new_tweet = Tweet(id_num=id_num, body=body, retweets=retweets, quote_tweets=quote_tweets, likes=likes, replies=replies, date=date, vibe=vibes, attachment=attachment)
         processed_tweets[id_num] = new_tweet
 
     return processed_tweets

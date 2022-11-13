@@ -9,5 +9,6 @@ class Tweet(BaseModel):
         retweets: int
         quote_tweets: int
         likes: int
+        replies: int
         date: datetime
         attachment: Union[str, None]
