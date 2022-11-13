@@ -33,7 +33,7 @@ def parse_tweets(tweets):
 def get_saved_hash():
     hash_file = open(HASH_FILE, "rt")
     hash_record = json.loads(hash_file.read())
-
+    hash_file.cl
     return hash_record["hash"]
 
 def save_hash(hash):
@@ -49,6 +49,7 @@ def save_cross_product():
 def load_data():
     content = open(DATABASE_FILE, "r", encoding="utf-8")
     database_data = json.loads(content.read())
+    content.close()
     companies_dict = {}
     tweet_pair_dict = {}
     correct_tweets = {}
