@@ -1,4 +1,4 @@
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException, Header
 from random import choice, shuffle
 
 from ..database.load_companies_tweets import load_data
@@ -8,16 +8,22 @@ router = APIRouter()
 companies, tweet_pairs, correct_tweets = load_data()
 
 @router.get("/getQuestion")
-async def get_companies():
-    company_id = choice(list(companies.keys()))
-    tweets = list(choice(tweet_pairs[company_id]))
+async def get_companies(x_history: str = Header()):
+    seen_IDs = x_history.split(",")
+
+    for i in range(0, 10):
+        company_id = choice(list(companies.keys()))
+
+        tweets = list(choice(tweet_pairs[company_id]))
+
+        if tweets[0].id_num not in seen_IDs and tweets[1].id_num not in seen_IDs:
+            break
 
     company = companies[company_id]
     shuffle(tweets)
     company.tweets = tweets
 
     return company
-
 
 @router.post("/submitResponse")
 async def get_answer(response: AnswerResponse):

@@ -22,10 +22,6 @@ app.add_middleware(
 app.include_router(round_robin.router)
 app.include_router(leaderboard.router)
 
-@app.on_event("shutdown")
-def shutdown_event():
-    leaderboard.save()
-
 @app.get("/alive")
 async def is_alive():
     return [{"Alive": True}]
