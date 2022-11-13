@@ -1,12 +1,13 @@
 from pydantic import BaseModel
 from datetime import datetime
+from typing import Union
 
 class Tweet(BaseModel):
         id_num: str
         body: str
-        vibe: str | None
+        vibe: Union[str, None]
         retweets: int
         quote_tweets: int
         likes: int
         date: datetime
-        attachment: str | None
+        attachment: Union[str, None]
