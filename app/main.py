@@ -1,4 +1,4 @@
-from random import choice
+from random import choice, shuffle
 
 from database.load_json import load_data
 from routers import round_robin
@@ -33,9 +33,10 @@ async def is_alive():
 @app.get("/getQuestion")
 async def get_companies():
     company_id = choice(list(companies.keys()))
-    tweets = choice(tweet_pairs[company_id])
+    tweets = list(choice(tweet_pairs[company_id]))
 
     company = companies[company_id]
+    shuffle(tweets)
     company.tweets = tweets
 
     return company
