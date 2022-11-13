@@ -8,3 +8,9 @@ def load_leaderboard():
 
     leaderboard_data = json.loads(leaderboard.read())
     return leaderboard_data
+
+def save_leaderboard(leaderboard):
+    writer = open(LEADERBOARD_FILE, "w")
+
+    json.dump(leaderboard, writer)
+    writer.close()

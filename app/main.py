@@ -1,11 +1,8 @@
 from random import choice, shuffle
-
-from .database.load_companies_tweets import load_data
-from .routers import round_robin, leaderboard
-from .internal.responses import AnswerResponse
-
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+import atexit
+from .routers import round_robin, leaderboard   
 
 app = FastAPI()
 origins = [
@@ -24,6 +21,10 @@ app.add_middleware(
 
 app.include_router(round_robin.router)
 app.include_router(leaderboard.router)
+
+@app.on_event("shutdown")
+def shutdown_event():
+    leaderboard.save()
 
 @app.get("/alive")
 async def is_alive():
