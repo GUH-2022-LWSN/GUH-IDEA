@@ -44,13 +44,13 @@ def save_cross_product():
     pass
 
 def load_data():
-
     content = open(DATABASE_FILE, "r", encoding="utf-8")
     database_data = json.loads(content.read())
     companies_dict = {}
     tweet_pair_dict = {}
     correct_tweets = {}
 
+    tweets = 0
     for company in database_data["companies"]:
         ids = str(uuid.uuid4())[0:16]
         handle = company["account_handle"]
@@ -62,6 +62,7 @@ def load_data():
         real_tweets = parse_tweets(company["real_tweets"])
         fake_tweets = parse_tweets(company["fake_tweets"])
 
+        tweets += len(real_tweets) + len(fake_tweets)
         tweet_pairs = list(product(real_tweets.values(), fake_tweets.values()))
         new_company = Company(company_id=ids, name=name, handle=handle, picture=picture, followers=followers, following=following, 
             joined_date=date)
@@ -70,6 +71,9 @@ def load_data():
         tweet_pair_dict[ids] = tweet_pairs
         correct_tweets[ids] = real_tweets
     
+    print(f"Loaded {len(companies_dict)} companies")
+    print(f"     : {tweets} tweets")
+
     return companies_dict, tweet_pair_dict, correct_tweets
 
 
