@@ -1228,6 +1228,7 @@
         "fake_tweets": [{   
             "content": "Meet the new McTasty. Now available in your kitchen #UberEats",
             "date_posted": "05:01 pm 27 Sep 2022",
+            "attachment": "https://cdn.discordapp.com/attachments/760858478855585812/1041256681088241724/unknown.png",
             "retweets": 202,
             "quote_tweets": 101,
             "likes": 555,
