@@ -276,7 +276,7 @@
                 "quote_tweets": 0,
                 "likes": 17,
                 "replies": 3,
-                "attachments": "https://media.discordapp.net/attachments/1041153839191052408/1041160314701500536/unknown.png?width=1134&height=1134"
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041160314701500536/unknown.png?width=1134&height=1134"
             },
     
             {
@@ -307,7 +307,7 @@
                 "quote_tweets": 7,
                 "likes": 7,
                 "replies": 3,
-                "attachments":"https://cdn.discordapp.com/attachments/1041153839191052408/1041160976642351114/unknown.png"
+                "attachment":"https://cdn.discordapp.com/attachments/1041153839191052408/1041160976642351114/unknown.png"
             },
     
             {
@@ -416,7 +416,7 @@
                 "quote_tweets": 0,
                 "likes": 4,
                 "replies": 5,
-                "attachments": "https://cdn.discordapp.com/attachments/1041153839191052408/1041162201802747955/unknown.png"
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041162201802747955/unknown.png"
             },
     
             {
@@ -426,7 +426,7 @@
                 "quote_tweets": 0,
                 "likes": 9,
                 "replies": 22,
-                "attachments": "https://cdn.discordapp.com/attachments/1041153839191052408/1041161964996542565/unknown.png"
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041161964996542565/unknown.png"
             }
         ],
     
@@ -460,6 +460,237 @@
             }
         ]
     
-    }
-    ]
+    },
+
+    {
+        "id": 6,
+        "account_name": "Lockheed Martin",
+        "account_handle": "@LockheedMartin",
+          "account_picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041182655485587466/unknown.png",
+        "followers": 194600,
+        "following": 3922,
+        "joined_date": "May 2009",
+        "real_tweets": 
+        [
+            {   
+                "content": "Check out @sameckholm's video highlighting our efforts to advance hypersonic flight technology. \n\nDarkstar happens to make an appearance, so you won't want to miss this! \n😉",
+                "date_posted": "06:31 pm 08 Nov 2022",
+                "retweets": 28,
+                "quote_tweets": 1,
+                "likes": 170,
+                "replies": 5
+            },
+    
+            {   
+                "content": "The @USArmy is redefining the art of the possible with Future Vertical Lift. \n\nFrom design and manufacturing to sustainment, we’re continuing our legacy of innovation to help them outpace the threats of tomorrow. @Sikorsky 🤝 @BoeingDefense\n#FVL #FLRAA #ArmyModernization",
+                "date_posted": "04:38 pm 26 Oct 2022",
+                "retweets": 50,
+                "quote_tweets": 4,
+                "likes": 309,
+                "replies": 5
+            },
+    
+            {
+                "content": "Now you see me, now you don’t ⚡",
+                "date_posted":"12:55 pm 25 Oct 2022",
+                "retweets": 547,
+                "quote_tweets": 42,
+                "likes": 5323,
+                "replies": 52,
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041182528301711514/image.png"
+            }
+        ],
+    
+        "fake_tweets": 
+        [
+            {   
+                "content": "We are proud to announce a three-year partnership with @NorthropGrumman @NorthropGrumman. This team leverages our Orion knowledge and experience, from crewed systems to mission operations, to deliver next-generation solutions to the world's most vulnerable populations.",
+                "date_posted": "2:04 am 22 Nov 2022",
+                "retweets": 15,
+                "quote_tweets": 0,
+                "likes": 76,
+                "replies": 11
+            },
+    
+            {   
+                "content": "The f35 programme is a proven air deterrent capability that’s ready to deliver significant airpower to pilots’ mission-ready missions in the skies at any time, anytime. #AIJAMovie #JPL2021 #AIJAMovie #ASC21 #ASC22 @joe_lant Thank you @DrVanHelsing for this great launch and a beautiful flight to watch!",
+                "date_posted": "06:42 am 14 Oct 2022",
+                "retweets": 120,
+                "quote_tweets": 11,
+                "likes": 201,
+                "replies": 43
+            },
+    
+            {
+                "content": "The f35 programme is one step closer to a fully autonomous aircraft that can perform flight-by-wire tests and is ready to take delivery to the @USNavy as early as Oct. 22.",
+                "date_posted": "01:59 am 07 Nov 2022",
+                "retweets": 5,
+                "quote_tweets": 2,
+                "likes": 78,
+                "replies": 4,
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041184838230740992/unknown.png"
+            }
+        ]
+    
+    },
+
+    {
+        "id": 7,
+        "account_name": "BAE Systems, Inc.",
+        "account_handle": "@BAESystemsInc",
+        "account_picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041186206379167794/unknown.png",
+        "followers": 148800,
+        "following": 415,
+        "joined_date": "June 2009",
+        "real_tweets": 
+        [
+            {   
+                "content": "Seeing is believing.\n\nJoin us in booth 325 at the F-15 TCP World Wide Review, Nov. 14-15, and let us show you our proven advanced weapon system called boresight solutions technology.",
+                "date_posted": "07:10 pm 12 Nov 2022",
+                "retweets": 6,
+                "quote_tweets": 0,
+                "likes": 17,
+                "replies": 0
+            },
+    
+            {   
+                "content": "New York Cruise Lines and Green City Ferries announce plans to launch the first zero-emissions electric ferry into the New York Harbor. The Beluga24 vessel features our electric drive system for cleaner, more efficient marine transportation.",
+                "date_posted": "04:38 pm 26 Oct 2022",
+                "retweets": 4,
+                "quote_tweets": 0,
+                "likes": 9,
+                "replies": 0,
+                "attachment":"https://cdn.discordapp.com/attachments/1041153839191052408/1041188393301840002/unknown.png"
+            }
+        ],
+    
+        "fake_tweets": 
+        [
+            {   
+                "content": "Rough up your work and make your mark this November! Check out these resources to inspire a change in the way people do their jobs. #LifeatBAESystems #NationalInternDay",
+                "date_posted": "4:04 am 11 Nov 2022",
+                "retweets": 15,
+                "quote_tweets": 0,
+                "likes": 6,
+                "replies": 1
+            },
+    
+            {   
+                "content": "The @usairforce has flown more than 110 more aircraft than are certified, all powered by BvS10 engine and via @radar.",
+                "date_posted": "10:42 am 04 Oct 2022",
+                "retweets": 10,
+                "quote_tweets": 2,
+                "likes": 21,
+                "replies": 1,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041190619902656643/unknown.png"
+            }
+        ]
+    
+    },
+    
+    {
+        "id": 8,
+        "account_name": "The University of Manchester",
+        "account_handle": "@OfficialUoM",
+        "account_picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041191430649020466/unknown.png",
+        "followers": 94400,
+        "following": 670,
+        "joined_date": "November 2013",
+        "real_tweets": 
+        [
+            {   
+                "content": "In The Climate Book, @GretaThunberghas partnered with more than a hundred scientists, engineers, philosophers, journalists, activists and writers, including @KevinClimate.",
+                "date_posted": "06:43 pm 12 Nov 2022",
+                "retweets": 6,
+                "quote_tweets": 0,
+                "likes": 5,
+                "replies": 0
+            },
+    
+            {   
+                "content": "We believe all students should have the chance to go to university. If that's your ambition, we'll help you get there. \n\nApplications close Sunday, 11 December.",
+                "date_posted": "08:00 am 03 Nov 2022",
+                "retweets": 21,
+                "quote_tweets": 0,
+                "likes": 28,
+                "replies": 0
+            }
+        ],
+    
+        "fake_tweets": 
+        [
+            {   
+                "content": "A lot of things are going to change, all of which we are incredibly passionate about, so please keep calm, and don't be alarmed if you do manage to change your course.",
+                "date_posted": "06:04 pm 21 Nov 2022",
+                "retweets": 8,
+                "quote_tweets": 1,
+                "likes": 21,
+                "replies": 2
+            },
+    
+            {   
+                "content": "To mark the 100-year anniversary of the start of #TheGreatSiren, we are introducing two unique events to mark our 100-year-long partnership with @bluedotfestival to celebrate #GreatSiren celebrations. @The_NWO_NMR will be taking place at Whitworth Hall - at 7pm: Hall C - @GMMHospital @DaltonNuclear.",
+                "date_posted": "11:11 am 04 Oct 2022",
+                "retweets": 8,
+                "quote_tweets": 1,
+                "likes": 16,
+                "replies": 1,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041190619902656643/unknown.png"
+            }
+        ]
+    
+    },
+
+    {
+        "id": 9,
+        "account_name": "Discord",
+        "account_handle": "@discord",
+        "account_picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041194271312719973/unknown.png",
+        "followers": 4400000,
+        "following": 1105,
+        "joined_date": "March 2015",
+        "real_tweets": 
+        [
+            {   
+                "content": "if nobody got me I know @/everyone got me",
+                "date_posted": "06:43 pm 12 Nov 2022",
+                "retweets": 6,
+                "quote_tweets": 0,
+                "likes": 5,
+                "replies": 0
+            },
+    
+            {   
+                "content": "We believe all students should have the chance to go to university. If that's your ambition, we'll help you get there. \n\nApplications close Sunday, 11 December.",
+                "date_posted": "08:00 am 03 Nov 2022",
+                "retweets": 21,
+                "quote_tweets": 0,
+                "likes": 28,
+                "replies": 0
+            }
+        ],
+    
+        "fake_tweets": 
+        [
+            {   
+                "content": "A lot of things are going to change, all of which we are incredibly passionate about, so please keep calm, and don't be alarmed if you do manage to change your course.",
+                "date_posted": "06:04 pm 21 Nov 2022",
+                "retweets": 8,
+                "quote_tweets": 1,
+                "likes": 21,
+                "replies": 2
+            },
+    
+            {   
+                "content": "To mark the 100-year anniversary of the start of #TheGreatSiren, we are introducing two unique events to mark our 100-year-long partnership with @bluedotfestival to celebrate #GreatSiren celebrations. @The_NWO_NMR will be taking place at Whitworth Hall - at 7pm: Hall C - @GMMHospital @DaltonNuclear.",
+                "date_posted": "11:11 am 04 Oct 2022",
+                "retweets": 8,
+                "quote_tweets": 1,
+                "likes": 16,
+                "replies": 1,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041190619902656643/unknown.png"
+            }
+        ]
+    
+    }]
 }
