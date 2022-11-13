@@ -891,7 +891,221 @@
             }
         ]
     
+    },
+
+    {
+        "id": 11,
+        "account_name": "Disney",
+        "account_handle": "@Disney",
+        "account_picture": "",
+        "followers": 9600000,
+        "following": 108,
+        "joined_date": "August 2009",
+        "real_tweets": 
+        [
+            {   
+                "content": "Let the winds of change guide you towards your next adventure. 🍂",
+                "date_posted": "09:00 pm 07 Nov 2022",
+                "retweets": 381,
+                "quote_tweets": 17,
+                "likes": 2311,
+                "replies": 52,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041208155264270446/unknown.png"
+            },
+
+            {   
+                "content": "Hop, prance, rush... 🐰 🦌 🦥 Zootopia+ is now streaming on @DisneyPlus!",
+                "date_posted": "05:09 pm 09 Nov 2022",
+                "retweets": 2011,
+                "quote_tweets": 17,
+                "likes": 1436,
+                "replies": 34
+            }
+        ],
+    
+        "fake_tweets": 
+        [
+            {   
+                "content": "Meet the new Guardians of the Galaxy: Legends of the Multiverse. Donate to the Children's Fund Foundation of International Children's Fund at @DisneyParks as a special thank you for this incredible year's support.",
+                "date_posted": "07:15 pm 10 Nov 2022",
+                "retweets": 3511,
+                "quote_tweets": 64,
+                "likes": 2143,
+                "replies": 77
+            },
+
+            {   
+                "content": "The Beatles are back on @DisneyPlus. Experience The Beatles in theaters November 22! Learn more: #DisneyPlusDay",
+                "date_posted": "04:37 am 30 Oct 2022",
+                "retweets": 4099,
+                "quote_tweets": 101,
+                "likes": 20700,
+                "replies": 1100,
+                "attachment": ""
+            }
+        ]
+    
+    },
+{
+        "id": 11,
+        "account_name": "Disney",
+        "account_handle": "@Disney",
+        "account_picture": "",
+        "followers": 9600000,
+        "following": 108,
+        "joined_date": "August 2009",
+        "real_tweets": 
+        [
+            {   
+                "content": "Let the winds of change guide you towards your next adventure. 🍂",
+                "date_posted": "09:00 pm 07 Nov 2022",
+                "retweets": 381,
+                "quote_tweets": 17,
+                "likes": 2311,
+                "replies": 52,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041208155264270446/unknown.png"
+            },
+
+            {   
+                "content": "Hop, prance, rush... 🐰 🦌 🦥 Zootopia+ is now streaming on @DisneyPlus!",
+                "date_posted": "05:09 pm 09 Nov 2022",
+                "retweets": 2011,
+                "quote_tweets": 17,
+                "likes": 1436,
+                "replies": 34
+            }
+        ],
+    
+        "fake_tweets": 
+        [
+            {   
+                "content": "Meet the new Guardians of the Galaxy: Legends of the Multiverse. Donate to the Children's Fund Foundation of International Children's Fund at @DisneyParks as a special thank you for this incredible year's support.",
+                "date_posted": "07:15 pm 10 Nov 2022",
+                "retweets": 3511,
+                "quote_tweets": 64,
+                "likes": 2143,
+                "replies": 77
+            },
+
+            {   
+                "content": "The Beatles are back on @DisneyPlus. Experience The Beatles in theaters November 22! Learn more: #DisneyPlusDay",
+                "date_posted": "04:37 am 30 Oct 2022",
+                "retweets": 4099,
+                "quote_tweets": 101,
+                "likes": 20700,
+                "replies": 1100,
+                "attachment": ""
+            }
+        ]
+    
+    },
+
+    {
+        "id": 12,
+        "account_name": "bill wurtz",
+        "account_handle": "@billwurtz",
+        "account_picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041213848713187339/unknown.png",
+        "followers": 365200,
+        "following": 79,
+        "joined_date": "April 2011",
+        "real_tweets": 
+        [
+            {   
+                "content": "i think left and right may be backwards, but that's none of my business",
+                "date_posted": "10:16 pm 14 Feb 2022",
+                "retweets": 1303,
+                "quote_tweets": 102,
+                "likes": 28400,
+                "replies": 152
+            },
+
+            {   
+                "content": "messages taste much better in a can",
+                "date_posted": "12:49 am 14 Jun 2019",
+                "retweets": 252,
+                "quote_tweets": 2,
+                "likes": 4095,
+                "replies": 32
+            },
+
+            {   
+                "content": "do not throw a flame thrower. you must get a flamethrower thrower",
+                "date_posted": "09:51 pm 09 Jun 2019",
+                "retweets": 636,
+                "quote_tweets": 5,
+                "likes": 6906,
+                "replies": 36
+            },
+
+            {   
+                "content": "now that i've tried the electric chair i don't think i could ever go back to regular chairs",
+                "date_posted": "09:41 pm 21 Jun 2019",
+                "retweets": 1435,
+                "quote_tweets": 30,
+                "likes": 11100,
+                "replies": 44
+            },
+
+            {   
+                "content": "thinking about relocating the ground into the sky",
+                "date_posted": "05:54 pm 28 Dec 2021",
+                "retweets": 537,
+                "quote_tweets": 49,
+                "likes": 9878,
+                "replies": 208
+            }
+        ],
+    
+        "fake_tweets": 
+        [
+            {   
+                "content": "at least one good person in your life is at risk",
+                "date_posted": "07:45 pm 16 Nov 2019",
+                "retweets": 3511,
+                "quote_tweets": 32,
+                "likes": 4133,
+                "replies": 438
+            },
+
+            {   
+                "content": "in jail you can't make a tweet, you have to make a tweet before you can make a tweet. that means i'm going to jail",
+                "date_posted": "11:56 pm 29 Oct 2020",
+                "retweets": 2110,
+                "quote_tweets": 10,
+                "likes": 4001,
+                "replies": 34
+            },
+
+            {   
+                "content": "breakfast - the way things look, it is actually pretty good",
+                "date_posted": "11:33 am 16 Jan 2020",
+                "retweets": 3511,
+                "quote_tweets": 32,
+                "likes": 4133,
+                "replies": 60
+            },
+
+            {   
+                "content": "to use the twitter: get up, move sideways, etc. etc.",
+                "date_posted": "07:45 pm 16 Sep 2019",
+                "retweets": 1884,
+                "quote_tweets": 12,
+                "likes": 2101,
+                "replies": 438
+            },
+            
+
+            {   
+                "content": "The world's smallest fish, which is considered to be a mime fish",
+                "date_posted": "11:28 pm 13 Aug 2017",
+                "retweets": 1001,
+                "quote_tweets": 9,
+                "likes": 2107,
+                "replies": 43
+            }
+        ]
+    
     }
 
-    ]
+]
 }
