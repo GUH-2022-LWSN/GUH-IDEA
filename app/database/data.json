@@ -653,42 +653,140 @@
         [
             {   
                 "content": "if nobody got me I know @/everyone got me",
-                "date_posted": "06:43 pm 12 Nov 2022",
-                "retweets": 6,
-                "quote_tweets": 0,
-                "likes": 5,
-                "replies": 0
+                "date_posted": "07:10 pm 08 Nov 2022",
+                "retweets": 1622,
+                "quote_tweets": 87,
+                "likes": 38700,
+                "replies": 590
             },
     
             {   
-                "content": "We believe all students should have the chance to go to university. If that's your ambition, we'll help you get there. \n\nApplications close Sunday, 11 December.",
-                "date_posted": "08:00 am 03 Nov 2022",
-                "retweets": 21,
-                "quote_tweets": 0,
-                "likes": 28,
-                "replies": 0
+                "content": "when you change your pfp it changes your whole personality be careful out there",
+                "date_posted": "05:01 pm 04 Nov 2022",
+                "retweets": 11600,
+                "quote_tweets": 1995,
+                "likes": 136600,
+                "replies": 2517
+            },
+
+            {   
+                "content": "🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻  happi halloween every1!!!!!!!! 🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻",
+                "date_posted": "05:03 pm 31 Oct 2022",
+                "retweets": 2163,
+                "quote_tweets": 33,
+                "likes": 35500,
+                "replies": 536
             }
         ],
     
         "fake_tweets": 
         [
             {   
-                "content": "A lot of things are going to change, all of which we are incredibly passionate about, so please keep calm, and don't be alarmed if you do manage to change your course.",
-                "date_posted": "06:04 pm 21 Nov 2022",
-                "retweets": 8,
-                "quote_tweets": 1,
-                "likes": 21,
-                "replies": 2
+                "content": "We're still experimenting with this new feature, and we hope to have it rolled out by the end of the week~",
+                "date_posted": "10:40 pm 07 Sep Nov 2024",
+                "retweets": 1011,
+                "quote_tweets": 15,
+                "likes": 22300,
+                "replies": 437
             },
     
             {   
-                "content": "To mark the 100-year anniversary of the start of #TheGreatSiren, we are introducing two unique events to mark our 100-year-long partnership with @bluedotfestival to celebrate #GreatSiren celebrations. @The_NWO_NMR will be taking place at Whitworth Hall - at 7pm: Hall C - @GMMHospital @DaltonNuclear.",
-                "date_posted": "11:11 am 04 Oct 2022",
-                "retweets": 8,
+                "content": "The problem seems to be fixed, but please make sure to add it to our feedback page here:",
+                "date_posted": "06:11 am 11 Nov 2022",
+                "retweets": 865,
+                "quote_tweets": 4,
+                "likes": 17650,
+                "replies": 833
+            }
+        ]
+    
+    },
+
+    {
+        "id": 10,
+        "account_name": "Wendy's",
+        "account_handle": "@Wendys",
+        "account_picture": "https://media.discordapp.net/attachments/1041153839191052408/1041198630595473538/unknown.png",
+        "followers": 3900000,
+        "following": 445,
+        "joined_date": "July 2009",
+        "real_tweets": 
+        [
+            {   
+                "content": "we love that",
+                "date_posted": "07:10 pm 08 Nov 2022",
+                "retweets": 60,
+                "quote_tweets": 3,
+                "likes": 1042,
+                "replies": 103
+            },
+    
+            {   
+                "content": "Purple and covered in nerds, just like @Twitch #TwitchCon2022",
+                "date_posted": "06:16 pm 07 Oct 2022",
+                "retweets": 283,
+                "quote_tweets": 73,
+                "likes": 4695,
+                "replies": 522
+            },
+
+            {   
+                "content": "Sci-fi is when you have this Wendy; fantasy is when you have that Wendy",
+                "date_posted": "08:00 pm 26 Sep 2022",
+                "retweets": 120,
+                "quote_tweets": 26,
+                "likes": 1778,
+                "replies": 136,
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041200122094157834/image.png"
+            },
+
+            {   
+                "content": "burgers",
+                "date_posted": "08:00 pm 26 Sep 2022",
+                "retweets": 2917,
+                "quote_tweets": 371,
+                "likes": 33300,
+                "replies": 1681
+            }
+        ],
+    
+        "fake_tweets": 
+        [
+            {   
+                "content": "👄👄👄👄👄👄👄👄",
+                "date_posted": "11:34 am 26 Nov 2022",
+                "retweets": 2011,
+                "quote_tweets": 8,
+                "likes": 12200,
+                "replies": 765,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041204333104087071/unknown.png"
+            },
+
+            {   
+                "content": "your mom is coming! Get a Frosty with 🤷‍♀️",
+                "date_posted": "08:43 pm 01 Nov 2022",
+                "retweets": 789,
                 "quote_tweets": 1,
-                "likes": 16,
-                "replies": 1,
-                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041190619902656643/unknown.png"
+                "likes": 11700,
+                "replies": 227
+            },
+
+            {   
+                "content": "canola oil? yes and yes. I said what I said.",
+                "date_posted": "08:27 am 27 Oct 2022",
+                "retweets": 565,
+                "quote_tweets": 4,
+                "likes": 24500,
+                "replies": 387
+            },
+    
+            {   
+                "content": "oh yeah? I do have a bad thing to say about someone.",
+                "date_posted": "04:01 pm 04 Oct 2022",
+                "retweets": 867,
+                "quote_tweets": 18,
+                "likes": 19876,
+                "replies": 587
             }
         ]
     
