@@ -179,6 +179,288 @@
                 "attachment": "https://media.discordapp.net/attachment/1010319628456693861/1041094142714974248/Area_Goku_holding_a_pepsi_marketing_anime_akira_toriyama_dragon_ea36f430-2441-4189-ad80-80125c78489a.png"
             }
         ]
-    }]
-}
+    },
 
+    {
+        "id": 2,
+        "account_name": "Thoughts of Dog",
+        "account_handle": "@dog_feelings",
+          "account_picture": "https://pbs.twimg.com/profile_images/1046968391389589507/_0r5bQLl_400x400.jpg",
+        "followers": 3700000,
+        "following": 3,
+        "joined_date": "March 2017",
+        "real_tweets": 
+        [
+            {   
+                "content": "do not rush me. on our walks. these sniffs are like my social media. and i’m scrollin",
+                "date_posted": "07:12 pm 28 Oct 2022",
+                "retweets": 10700,
+                "quote_tweets": 597,
+                "likes": 126900,
+                "replies": 718
+            },
+    
+            {   
+                "content": "today. i wasn’t a very good dog. april fools. i was so good",
+                "date_posted": "12:07 am 2 Apr 2022",
+                "retweets": 19400,
+                "quote_tweets": 709,
+                "likes": 271500,
+                "replies": 577
+            },
+    
+            {
+                "content": "with great cuteness. comes no responsibility",
+                "date_posted":"01:51 am 29 Jul 2022",
+                "retweets": 4125,
+                "quote_tweets": 331,
+                "likes": 48000,
+                "replies": 269
+            }
+        ],
+    
+        "fake_tweets": 
+        [
+            {   
+                "content": "woof woof. that was my best guess. i'd also like to thank you",
+                "date_posted": "02:42 am 4 Nov 2022",
+                "retweets": 3122,
+                "quote_tweets": 227,
+                "likes": 35600,
+                "replies": 279
+            },
+    
+            {   
+                "content": "i put my snoot on your leg. and it was. an absolute blessing. it made me smile so much. to all of you",
+                "date_posted": "11:43 am 10 Oct 2022",
+                "retweets": 22200,
+                "quote_tweets": 178,
+                "likes": 38766,
+                "replies": 567
+            },
+    
+            {
+                "content": "must run in circles. very fast. to evade. danger. and always. have a good dog",
+                "date_posted": "03:30 am 01 Nov 2023",
+                "retweets": 5606,
+                "quote_tweets": 254,
+                "likes": 21200,
+                "replies": 515
+            }
+        ]
+    },
+    
+    {
+        "id": 3,
+        "account_name": "Bet365",
+        "account_handle": "@bet365",
+          "account_picture": "https://media.discordapp.net/attachments/1027959698617552997/1041107834739359814/unknown.png",
+        "followers": 449200,
+        "following": 365,
+        "joined_date": "December 2010",
+        "real_tweets": 
+        [
+            {   
+                "content": "Out of 10, how would you rate your club's first half of the season?",
+                "date_posted": "07:12 pm 28 Oct 2022",
+                "retweets": 0,
+                "quote_tweets": 13,
+                "likes": 14,
+                "replies": 53
+            },
+    
+            {   
+                "content": "What. A. Match.\n\n Samoa knock England out by golden point to reach their first-ever Rugby League World Cup Final\n\nAn incredible achievement at the Emirates.\n\n#RLWC",
+                "date_posted": "04:35 pm 12 Nov 2022",
+                "retweets": 3,
+                "quote_tweets": 0,
+                "likes": 17,
+                "replies": 3,
+                "attatchments": "https://media.discordapp.net/attachments/1027959698617552997/1041110324612436039/unknown.png?width=1134&height=1134"
+            },
+    
+            {
+                "content": "Leading trainer Nicky Henderson bids for more success at Cheltenham.\n\nWe've boosted four of his fancied runners.",
+                "date_posted":"12:50 pm 12 Nov 2022",
+                "retweets": 0,
+                "quote_tweets": 0,
+                "likes": 3,
+                "replies": 3
+            }
+        ],
+    
+        "fake_tweets": 
+        [
+            {   
+                "content": "Fight night! Get the memes going! Marshall-Wace's Conor Kiernan takes on our very own Alicia! @bet365 | @boxxer | #ShieldsMarshall",
+                "date_posted": "08:49 pm 12 Nov 2022",
+                "retweets": 5,
+                "quote_tweets": 2,
+                "likes": 10,
+                "replies": 4
+            },
+    
+            {   
+                "content": "Aston Villa take on Aston Villa to face Real Madrid at the Ibrox. We're Live Streaming the bet365 Betspogo. Customers must have a funded Sports account or have placed a bet within the last 24 hours.",
+                "date_posted": "06:30 pm 19 Oct 2022",
+                "retweets": 0,
+                "quote_tweets": 7,
+                "likes": 7,
+                "replies": 3,
+                "attatchments":"https://cdn.discordapp.com/attachments/1027959698617552997/1041115268618924103/unknown.png"
+            },
+    
+            {
+                "content": "How do you think your card will look in England's Super 12s tournament opener against India?",
+                "date_posted": "7:05 am 07 Nov 2022",
+                "retweets": 42,
+                "quote_tweets": 101,
+                "likes": 17,
+                "replies": 122
+            }
+        ]
+    },
+    
+    {
+        "id": 4,
+        "account_name": "Palantir",
+        "account_handle": "@PalantirTech",
+          "account_picture": "https://cdn.discordapp.com/attachments/1027959698617552997/1041120945785536582/unknown.png",
+        "followers": 128000,
+        "following": 58,
+        "joined_date": "May 2009",
+        "real_tweets": 
+        [
+            {   
+                "content": "Congratulations to Dr. Joni Rutter for this well deserved honor. #Palantir is proud to support the great work of @NCATS and #N3C.\n\n Together, we are powering a protected #data enclave with >16 million patients from 76 medical centers, and over 3,000 collaborating researchers.",
+                "date_posted": "07:12 pm 28 Oct 2022",
+                "retweets": 12,
+                "quote_tweets": 1,
+                "likes": 104,
+                "replies": 0
+            },
+    
+            {   
+                "content": "'All the pundits said that software was going to eat the world.'\n\n'From my perspective, between Ukraine, inflation, COVID and the aftershocks that have followed, it looks much more like the world ate #software.'\n\nWatch @ssankar's full FoundryCon address:",
+                "date_posted": "7:45 pm 31 Oct 2022",
+                "retweets": 28,
+                "quote_tweets": 3,
+                "likes": 156,
+                "replies": 5
+            },
+    
+            {
+                "content": "#Palantir Foundry is enabling teams at @axelspringer to better leverage data and shape business strategy.",
+                "date_posted":"6:31 pm 26 Oct 2022",
+                "retweets": 26,
+                "quote_tweets": 2,
+                "likes": 133,
+                "replies": 1
+            }
+        ],
+    
+        "fake_tweets": 
+        [
+            {   
+                "content": "We don't talk about Foundry enough, because they don't talk about it to the same level that we use them to solve our most important problem. Our engineers work hard to get a picture of what you're doing. We also get the data we needed to make a decision on the most important data issue. Listen in:",
+                "date_posted": "11:21 pm 02 Nov 2022",
+                "retweets": 31,
+                "quote_tweets": 3,
+                "likes": 201,
+                "replies": 11
+            },
+    
+            {   
+                "content": "Large breakthroughs were made during the pandemic in big data. Now, we're proud to announce the development of a new Palantir product that can 'meet and accelerate industry requirements...' — Dr. Szekovitz @scholarship_energy #palantir",
+                "date_posted": "11:45 pm 23 Oct 2022",
+                "retweets": 22,
+                "quote_tweets": 0,
+                "likes": 13,
+                "replies": 8
+            },
+    
+            {
+                "content": "Foundry's global impact has been unprecedented, enabling organizations around the world to harness the power of our software, data and #AI across the #sustainableusement sector. Learn how Foundry for Healthcare is powering #AI #publichealthcare data integration to address #covid19 and #covid19 health threats across #enterprise.",
+                "date_posted": "11:59 am 07 Nov 2022",
+                "retweets": 1,
+                "quote_tweets": 10,
+                "likes": 101,
+                "replies": 49
+            }
+        ]
+    },
+    
+    {
+        "id": 5,
+        "account_name": "Booking.com",
+        "account_handle": "@bookingcom",
+          "account_picture": "https://cdn.discordapp.com/attachments/1027959698617552997/1041136376541880387/unknown.png",
+        "followers": 194600,
+        "following": 3922,
+        "joined_date": "March 2009",
+        "real_tweets": 
+        [
+            {   
+                "content": "Lunch breaks hit different as a digital nomad. Find your next office here:",
+                "date_posted": "11:08 am 12 Nov 2022",
+                "retweets": 2,
+                "quote_tweets": 1,
+                "likes": 3,
+                "replies": 9
+            },
+    
+            {   
+                "content": "In the 60s and 70s hippies from across the world flocked to Pakistan to hike through the country’s landscape. One of our favourite spots are the Margalla Hills. The best place to access them is from the capital city, Islamabad.",
+                "date_posted": "10:31 am 09 Nov 2022",
+                "retweets": 0,
+                "quote_tweets": 0,
+                "likes": 4,
+                "replies": 5
+            },
+    
+            {
+                "content": "You’re going to want to get on this quick. That’s what she said. We’re making two pairs of lucky fans’ dreams come true with all-nighter at @theofficeexp. 👇",
+                "date_posted":"2:47 pm 3 Nov 2022",
+                "retweets": 2,
+                "quote_tweets": 0,
+                "likes": 9,
+                "replies": 22,
+                "attatchments": "https://drive.google.com/file/d/1ECVOhDIOPX4gN2CXS_LF-inSHT5ZoQlV/view?usp=share_link"
+                
+    
+            }
+        ],
+    
+        "fake_tweets": 
+        [
+            {   
+                "content": "We don't talk about Foundry enough, because they don't talk about it to the same level that we use them to solve our most important problem. Our engineers work hard to get a picture of what you're doing. We also get the data we needed to make a decision on the most important data issue. Listen in:",
+                "date_posted": "11:21 pm 02 Nov 2022",
+                "retweets": 31,
+                "quote_tweets": 3,
+                "likes": 201,
+                "replies": 11
+            },
+    
+            {   
+                "content": "Large breakthroughs were made during the pandemic in big data. Now, we're proud to announce the development of a new Palantir product that can 'meet and accelerate industry requirements...' — Dr. Szekovitz @scholarship_energy #palantir",
+                "date_posted": "11:45 pm 23 Oct 2022",
+                "retweets": 22,
+                "quote_tweets": 0,
+                "likes": 13,
+                "replies": 8
+            },
+    
+            {
+                "content": "Foundry's global impact has been unprecedented, enabling organizations around the world to harness the power of our software, data and #AI across the #sustainableusement sector. Learn how Foundry for Healthcare is powering #AI #publichealthcare data integration to address #covid19 and #covid19 health threats across #enterprise.",
+                "date_posted": "11:59 am 07 Nov 2022",
+                "retweets": 1,
+                "quote_tweets": 10,
+                "likes": 101,
+                "replies": 49
+            }
+        ]
+    
+    }
+    ]
+}
