@@ -45,7 +45,6 @@ def set_leaderboard(response: LeaderboardResponse):
         if len(leaderboard["leaderboard"]) > NUM_OF_ENTRIES:
             leaderboard["leaderboard"].pop()  
         
-        print(leaderboard)
         save_leaderboard(leaderboard)
 
     return ""
