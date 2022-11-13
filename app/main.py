@@ -1,12 +1,27 @@
-from database.load_json import load_data, get_file_hashes, get_saved_hash
-from fastapi import FastAPI, HTTPException
-from models.company import Company
-from models.tweet import Tweet
-from routers import round_robin
-from internal.responses import AnswerResponse
 from random import choice
 
+from database.load_json import load_data
+from routers import round_robin
+from internal.responses import AnswerResponse
+
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+
 app = FastAPI()
+origins = [
+    "http://localhost:3000",
+    "http://127.0.0.1:3000",
+    "https://justphish.tech",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 app.include_router(round_robin.router)
 
 companies, tweet_pairs, correct_tweets = load_data()

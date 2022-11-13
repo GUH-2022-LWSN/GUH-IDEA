@@ -3,7 +3,7 @@
         "id": 0,
         "account_name": "Elon Musk",
         "account_handle": "@elonmusk",
-        "account_picture": "https://cdn.discordapp.com/attachments/1027959698617552997/1041106285896159373/IY9Gx6Ok_400x400.jpg",
+        "account_picture": "https://cdn.discordapp.com/attachment/1027959698617552997/1041106285896159373/IY9Gx6Ok_400x400.jpg",
         "followers": 15300000,
         "following": 130,
         "joined_date": "June 2009",
@@ -35,7 +35,7 @@
                 "quote_tweets": 2056,
                 "likes": 169100,
                 "replies": 10300,
-                "attatchments": "https://cdn.discordapp.com/attachments/1027959698617552997/1041106799539015680/FhS6MXBUUAYC6y3.jfif"
+                "attachment": "https://cdn.discordapp.com/attachment/1027959698617552997/1041106799539015680/FhS6MXBUUAYC6y3.jfif"
             },
 
             {
@@ -54,7 +54,7 @@
                 "quote_tweets": 9588,
                 "likes": 685600,
                 "replies": 58300,
-                "attatchments": "https://cdn.discordapp.com/attachments/1027959698617552997/1041107751205601330/FhATQoQVUAA87rN.jfif         "
+                "attachment": "https://cdn.discordapp.com/attachment/1027959698617552997/1041107751205601330/FhATQoQVUAA87rN.jfif         "
             }
 
         ],
@@ -77,7 +77,7 @@
                 "quote_tweets": 7680,
                 "likes": 121300,
                 "replies": 47300,
-                "attatchments": "https://media.discordapp.net/attachments/1010319628456693861/1041034342572507166/Area_Elon_Musk_in_the_twitterverse_Elon_Musk_in_virtual_reality_fc8b28a3-98ae-49ab-806b-c2971b355cf2.png"
+                "attachment": "https://media.discordapp.net/attachment/1010319628456693861/1041034342572507166/Area_Elon_Musk_in_the_twitterverse_Elon_Musk_in_virtual_reality_fc8b28a3-98ae-49ab-806b-c2971b355cf2.png"
             },
 
             {
@@ -104,7 +104,7 @@
                 "retweets": 19276,
                 "quote_tweets": 3387,
                 "likes": 98700,
-                "attatchments": "https://exantestatic.s3.eu-west-1.amazonaws.com/cache/e0/16/e0162a2245195e2220a541d0ba0584d5.jpg"
+                "attachment": "https://exantestatic.s3.eu-west-1.amazonaws.com/cache/e0/16/e0162a2245195e2220a541d0ba0584d5.jpg"
             }
         ]
     },
@@ -126,7 +126,7 @@
                 "quote_tweets": 11,
                 "likes": 299,
                 "replies": 39,
-                "attatchments": "https://twitter.com/i/status/1585277744006438914"
+                "attachment": "https://twitter.com/i/status/1585277744006438914"
             },
 
             {   
@@ -136,7 +136,7 @@
                 "quote_tweets": 2,
                 "likes": 195,
                 "replies": 24,
-                "attatchments": "https://cdn.discordapp.com/attachments/1027959698617552997/1041108295403962469/Ffmep7nXEAEWWtO.jfif"
+                "attachment": "https://cdn.discordapp.com/attachment/1027959698617552997/1041108295403962469/Ffmep7nXEAEWWtO.jfif"
             },
 
             {
@@ -176,7 +176,7 @@
                 "quote_tweets": 45,
                 "likes": 101,
                 "replies": 5,
-                "attatchments": "https://media.discordapp.net/attachments/1010319628456693861/1041094142714974248/Area_Goku_holding_a_pepsi_marketing_anime_akira_toriyama_dragon_ea36f430-2441-4189-ad80-80125c78489a.png"
+                "attachment": "https://media.discordapp.net/attachment/1010319628456693861/1041094142714974248/Area_Goku_holding_a_pepsi_marketing_anime_akira_toriyama_dragon_ea36f430-2441-4189-ad80-80125c78489a.png"
             }
         ]
     }]
