@@ -1,22 +1,22 @@
 {
     "leaderboard": [{
-        "twitter_handle": "Liam",
-        "score": 99
+        "twitter_handle": "liam",
+        "score": 160
     },
     {
-        "twitter_handle": "Nathan",
-        "score": 69
+        "twitter_handle": "nathan",
+        "score": 96
     },
     {   
-        "twitter_handle": "Will",
-        "score": 59
+        "twitter_handle": "will",
+        "score": 56
     },
     {
-        "twitter_handle": "Sam",
-        "score": 49
+        "twitter_handle": "sam",
+        "score": 48
     },
     {
-        "twitter_handle": "Max",
-        "score": 39
+        "twitter_handle": "max",
+        "score": 8
     }]
 }
