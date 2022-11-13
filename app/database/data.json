@@ -1109,7 +1109,6 @@
     
     }, 
     {
-        {
             "id": 13,
             "account_name": "BBC News",
             "account_handle": "@BBCBreaking",
@@ -1118,7 +1117,7 @@
             "following": 3,
             "joined_date": "April 2011",
             "real_tweets": [{
-                    "content": "Democrats retain majority control of US Senate after President Joe Biden’s party projected to win key race in Nevada",
+                    "content": "Democrats retain majority control of US Senate after President Joe Bidens party projected to win key race in Nevada",
                     "date_posted": "06:40 am 13 Nov 2022",
                     "retweets": 502,
                     "quote_tweets": 300,
@@ -1142,14 +1141,13 @@
                 "replies": 43
             },
             {   
-                "content": '"Anyone can make war, but only the most courageous can make peace" - US President Donald Trump on "honest, direct" meeting with Kim Jong-un',
+                "content": "Anyone can make war, but only the most courageous can make peace - US President Donald Trump on honest, direct meeting with Kim Jong-un",
                 "date_posted": "09:35 am 12 Jun 2018",
                 "retweets": 754,
                 "quote_tweets": 155,
                 "likes": 1632,
                 "replies": 321
-            }
-                ], 
+            }], 
             "fake_tweets": [{ 
                     "content": "Democrats and Republicans share Biden's thoughts on Biden and K-pop star",
                     "date_posted": "11:31 pm 13 Aug 2020",
@@ -1168,7 +1166,7 @@
             },
             {   
                 "content": "Democrats and Republicans agree on plan to avoid automatic election-year shutdown",
-                "date_posted": "02:10 pm 06 Sep 2022",
+                "date_posted": "02:10 pm 06 Sep 2023",
                 "retweets": 30,
                 "quote_tweets": 55,
                 "likes": 89,
@@ -1183,6 +1181,74 @@
                 "replies": 256
             }
             ]
+     },
+     {
+        "id": 14,
+        "account_name": "McDonalds",
+        "account_handle": "@McDonalds",
+        "account_picture": "https://cdn.discordapp.com/attachments/1027959698617552997/1041248985362464798/unknown.png",
+        "followers": 4700000,
+        "following": 13600,
+        "joined_date": "September 2009",
+        "real_tweets": [{   
+            "content": "link in bioooooooooooooooooooooooooooooooooooooooooooooooooooo",
+            "date_posted": "05:01 pm 10 Nov 2022",
+            "retweets": 504,
+            "quote_tweets": 237,
+            "likes": 26500,
+            "replies": 200
+        },
+        {   
+            "content": "Rule #1 for surviving a group project: assign someone to pick up everyone’s favorite McCafé drink.",
+            "date_posted": "05:00 pm 11 Dec 2017",
+            "attachment": "https://cdn.discordapp.com/attachments/1027959698617552997/1041250491558002688/unknown.png",
+            "retweets": 51,
+            "quote_tweets": 6,
+            "likes": 227,
+            "replies": 55   
+        },
+        {   
+            "content": "march 2020: i'm going to use this time to read books, learn new skills, and become a better person! march 2021: does grimace have thumbs",
+            "date_posted": "04:43 pm 3 Mar 2021",
+            "retweets": 368,
+            "quote_tweets": 57,
+            "likes": 557,
+            "replies": 200
+        },
+        {   
+            "content": "one day you ordered a Happy Meal for the last time and you didn't even know it.",
+            "date_posted": "03:36 pm 24 Nov 2020",
+            "retweets": 3016,
+            "quote_tweets": 3061,
+            "likes": 25300,
+            "replies": 2142
+        }
+    
+    ],
+        "fake_tweets": [{   
+            "content": "Meet the new McTasty. Now available in your kitchen #UberEats",
+            "date_posted": "05:01 pm 27 Sep 2022",
+            "retweets": 202,
+            "quote_tweets": 101,
+            "likes": 555,
+            "replies": 264
+        },
+        {   
+            "content": "I'm lovin it 🔥 🔥",
+            "date_posted": "10:15 am 04 Feb 2016",
+            "retweets": 196,
+            "quote_tweets": 15,
+            "likes": 2900,
+            "replies": 4
+        },
+        {   
+            "content": "Sign up for awesome deals and rewards, like us on Facebook!",
+            "date_posted": "12:15 am 17 Apr 2018",
+            "retweets": 196,
+            "quote_tweets": 15,
+            "likes": 2900,
+            "replies": 4
+        }]
      }
 
 ]
