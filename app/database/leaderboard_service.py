@@ -7,4 +7,4 @@ def load_leaderboard():
     leaderboard = open(LEADERBOARD_FILE, "r")
 
     leaderboard_data = json.loads(leaderboard.read())
-    print(leaderboard_data)
+    return leaderboard_data
