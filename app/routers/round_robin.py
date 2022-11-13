@@ -5,7 +5,7 @@ from ..database.load_companies_tweets import load_data
 from ..internal.responses import AnswerResponse
 
 router = APIRouter()
-companies, tweet_pairs, correct_tweets = load_data()
+companies, tweet_pairs, correct_tweets, incorrect_tweets = load_data()
 
 @router.get("/getQuestion")
 async def get_companies(x_history: str = Header()):

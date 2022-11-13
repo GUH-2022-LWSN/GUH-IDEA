@@ -53,6 +53,7 @@ def load_data():
     companies_dict = {}
     tweet_pair_dict = {}
     correct_tweets = {}
+    incorrect_tweets = {}
 
     tweets = 0
     for company in database_data["companies"]:
@@ -74,11 +75,12 @@ def load_data():
         companies_dict[ids] = new_company
         tweet_pair_dict[ids] = tweet_pairs
         correct_tweets[ids] = real_tweets
+        incorrect_tweets[ids] = fake_tweets
     
     print(f"Loaded {len(companies_dict)} companies")
     print(f"     : {tweets} tweets")
 
-    return companies_dict, tweet_pair_dict, correct_tweets
+    return companies_dict, tweet_pair_dict, correct_tweets, incorrect_tweets
 
 
 
